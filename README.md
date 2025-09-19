@@ -11,7 +11,7 @@ It was a good practice to refresh my knowledge, and I will continue doing more c
 
 ### Links
 - Solution URL: [GitHub repo](https://github.com/akaC1J/frontend_mentor-qr_code_component)
-- Live Site URL: [Live site on GitHub Pages](https://qr-code-component.vercel.app)
+- Live Site URL: [Live site on GitHub Pages](https://akac1j.github.io/frontend_mentor-qr_code_component/)
 
 ## My process
 
